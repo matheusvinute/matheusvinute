@@ -1,6 +1,8 @@
 ### Olá eu sou o Matheus Vinute 👋
 <br>
-Guardo aqui, em repositórios, idéias e contribuições em projetos que possa contribuir com a melhoria e aparfeiçoamento de entendimento...
+Guardo aqui, em repositórios, idéias e contribuições em projetos que trabalhei anteriormente. Acredito que compartilhar esses repositórios possa contribuir com a melhoria e aperfeiçoamento de desenvolvedores, que assim como eu, acredita que podemos mudar o mundo com tecnologia... 
+
+Você pode conhecer outros canais que uso para compartilhar ideias e insides, segui abaixo.
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/negociosesoftware/)
@@ -8,7 +10,7 @@ Guardo aqui, em repositórios, idéias e contribuições em projetos que possa c
 
 <br>
 
-## Tecnologias que que eu uso no meu dia a dia
+## Tecnologias que eu uso no meu dia a dia
 <br>
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
