@@ -7,7 +7,7 @@ Guardo aqui, em repositórios, idéias e contribuições em projetos que possa c
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-vinute-a208b410a/)
 
 <br>
----------------------------------------------------
+
 ## Tecnologias que que eu uso no meu dia a dia
 <br>
 
