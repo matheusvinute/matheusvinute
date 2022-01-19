@@ -8,7 +8,7 @@ Acredito que compartilhar esses repositórios possa contribuir com a melhoria e 
 Você pode conhecer outros canais que uso para compartilhar ideias e insides, segui abaixo.
 <br>
 
-[![Site](http://negociosesoftware.com.br)]
+[![Site](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](http://negociosesoftware.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/negociosesoftware/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-vinute-a208b410a/)
 
