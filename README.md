@@ -2,6 +2,8 @@
 <br>
 Guardo aqui, em repositórios, idéias e contribuições em projetos que trabalhei anteriormente. 
 
+
+
 Acredito que compartilhar esses repositórios possa contribuir com a melhoria e aperfeiçoamento de desenvolvedores, que assim como eu, acredita que podemos mudar o mundo com tecnologia.
 
 
