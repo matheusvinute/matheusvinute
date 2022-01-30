@@ -1,13 +1,9 @@
 ### Olá eu sou o Matheus Vinute 👋
 <br>
-Guardo aqui, em repositórios, idéias e contribuições em projetos que trabalhei anteriormente. 
+I keep here, in projects of initiative, ideas and contributions that I worked on before.
+Efficiency improvement can contribute to the improvement of developers, believing that we can change the world with technology.
 
-
-
-Acredito que compartilhar esses repositórios possa contribuir com a melhoria e aperfeiçoamento de desenvolvedores, que assim como eu, acredita que podemos mudar o mundo com tecnologia.
-
-
-Você pode conhecer outros canais que uso para compartilhar ideias e insides, segui abaixo.
+You can learn about other channels we use to share ideas and insides, follow below.
 <br>
 
 [![Site](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](http://negociosesoftware.com.br)
