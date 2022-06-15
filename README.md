@@ -7,7 +7,6 @@ You can learn about other channels we use to share ideas and insides, follow bel
 <br>
 
 [![Site](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](http://negociosesoftware.com.br)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/negociosesoftware/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-vinute-a208b410a/)
 
 <br>
