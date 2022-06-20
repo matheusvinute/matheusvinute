@@ -3,7 +3,7 @@
 I keep here, in projects of initiative, ideas and contributions that I worked on before.
 Efficiency improvement can contribute to the improvement of developers, believing that we can change the world with technology.
 
-You can learn about other channels we use to share ideas and insides, follow below.
+You can learn about other channels we use to share ideas and insides, follow below...
 <br>
 
 [![Site](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](http://negociosesoftware.com.br)
